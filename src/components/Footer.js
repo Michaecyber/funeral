@@ -88,6 +88,14 @@ const Footer = () => {
                                         Privacy Policy.
                                     </a>
                                 </p>
+                                <p>
+                                </p>
+                                <p className="mt-3 text-sm text-gray-800 font-bold ">
+                                Contact Us: +27 11 046 1896 <br /> Mobile: +27 82 711 4448  <br /> Address: 50 Juta And Station Streeet, Braamfontein, Johannesburg, RSA{' '}
+                                <a href="#" className="text-blue-700  font-medium underline font-bold">
+                                <br /> Email: mthupi1962@gmail.com
+                                </a>
+                            </p>
                             </div>
                         </div>
 
